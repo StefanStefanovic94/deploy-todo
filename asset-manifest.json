@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/deploy-todo/static/css/main.1459ff65.chunk.css",
+    "main.js": "/deploy-todo/static/js/main.99b2a9ce.chunk.js",
+    "main.js.map": "/deploy-todo/static/js/main.99b2a9ce.chunk.js.map",
+    "runtime-main.js": "/deploy-todo/static/js/runtime-main.90cef6c4.js",
+    "runtime-main.js.map": "/deploy-todo/static/js/runtime-main.90cef6c4.js.map",
+    "static/js/2.f7d1d524.chunk.js": "/deploy-todo/static/js/2.f7d1d524.chunk.js",
+    "static/js/2.f7d1d524.chunk.js.map": "/deploy-todo/static/js/2.f7d1d524.chunk.js.map",
+    "index.html": "/deploy-todo/index.html",
+    "static/css/main.1459ff65.chunk.css.map": "/deploy-todo/static/css/main.1459ff65.chunk.css.map",
+    "static/js/2.f7d1d524.chunk.js.LICENSE.txt": "/deploy-todo/static/js/2.f7d1d524.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90cef6c4.js",
+    "static/js/2.f7d1d524.chunk.js",
+    "static/css/main.1459ff65.chunk.css",
+    "static/js/main.99b2a9ce.chunk.js"
+  ]
+}
